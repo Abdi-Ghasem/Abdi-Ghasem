@@ -1,8 +1,8 @@
 # Ghasem Abdi
 
-**As a distinguished professional holding a Ph.D. in Photogrammetric Computer Vision Engineering from the esteemed University of Tehran, I have spent the past 13 years dedicating myself to the fascinating intersection of machine learning and computer vision in the Earth Intelligence industry. Proficient in Python, C++, and AWS cloud computing, I have leveraged my expertise to develop innovative solutions for intricate challenges in this field.**
+**As a distinguished professional holding a Ph.D. in Photogrammetric Computer Vision Engineering from the esteemed University of Tehran, I have spent more than a decade dedicating myself to the fascinating intersection of machine learning and computer vision in the Earth Intelligence industry. Proficient in Python, C++, and AWS cloud computing, I have leveraged my expertise to develop innovative solutions for intricate challenges in this field.**
 
-**Currently serving as a Senior ML/CV Engineer at EV, I apply cutting-edge deep learning techniques to analyze and interpret airborne and satellite imagery. Through my proficiency in AI, I have created advanced algorithms and data-driven insights that drive positive change within the Earth Intelligence domain.**
+**Currently serving as a Staff ML/CV Engineer at EV, I apply cutting-edge deep learning techniques to analyze and interpret airborne and satellite imagery. Through my proficiency in AI, I have created advanced algorithms and data-driven insights that drive positive change within the Earth Intelligence domain.**
 
 **In an ever-evolving technology landscape, I embrace change and possess a knack for swiftly acquiring new skills and staying abreast of advancements in machine learning, computer vision, and related disciplines. By consistently delivering impactful results, I firmly believe in the transformative power of technology to shape our world for the better.**
 
