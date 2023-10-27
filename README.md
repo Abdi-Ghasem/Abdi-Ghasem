@@ -1,4 +1,4 @@
-# Ghasem Abdi
+# Sam Abdi
 
 **As a distinguished professional holding a Ph.D. in Photogrammetric Computer Vision Engineering from the esteemed University of Tehran, I have spent more than a decade dedicating myself to the fascinating intersection of machine learning and computer vision in the Earth Intelligence industry. Proficient in Python, C++, and AWS cloud computing, I have leveraged my expertise to develop innovative solutions for intricate challenges in this field.**
 
